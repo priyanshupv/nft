@@ -1,1 +1,25 @@
 # nft
+{
+ "symbol": "Mintable Gasless store",
+ "image": "https://d1iczm3wxxz9zd.cloudfront.net/a2bf31c3-9dca-4ad2-8644-3166a25234a9/000000-0000000000/105032517541624704327403118612913002913023679302836093425976308744647882135696/ITEM_PREVIEW1.jpg",
+ "animation_url": "",
+ "royalty_amount": 500,
+ "copyright_transfer": false,
+ "address": "0x8c5aCF6dBD24c66e6FD44d4A4C3d7a2D955AAad2",
+ "tokenId": "105032517541624704327403118612913002913023679302836093425976308744647882135696",
+ "resellable": true,
+ "original_creator": "0xE8364C58e033A9FD38BED5d431fFEcD39e21D48C",
+ "edition_number": 1,
+ "description": "<p>old age home</p>",
+ "auctionLength": 0,
+ "title": "Turtle Shield",
+ "url": "https://metadata.mintable.app/mintable_gasless/105032517541624704327403118612913002913023679302836093425976308744647882135696",
+ "file_key": "",
+ "apiURL": "mintable_gasless/",
+ "subtitle": "old age home",
+ "name": "Turtle Shield",
+ "auctionType": "Fixed",
+ "category": "Art",
+ "edition_total": 1,
+ "gasless": true
+}
